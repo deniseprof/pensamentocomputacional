@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Sustentabilidade e 5Rs</title>
+    <link rel="stylesheet" type="text/css" href="estilo.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Sustentabilidade e 5Rs</h1>
+        </header>
+        <div class="content">
+            <section>
+                <h2>O que são os 5Rs?</h2>
+                <p>
+                    Os 5Rs representam os princípios da sustentabilidade e da gestão de resíduos. São eles:
+                </p>
+                <ul>
+                    <li>Recusar: Evitar o que você não precisa.</li>
+                    <li>Reduzir: Consumir menos e minimizar o desperdício.</li>
+                    <li>Reutilizar: Usar itens novamente em vez de descartá-los.</li>
+                    <li>Reciclar: Processar materiais para criar novos produtos.</li>
+                    <li>Compostar: Transformar resíduos orgânicos em nutrientes para a terra.</li>
+                </ul>
+            </section>
+            <section>
+                <h2>O que é TI-verde?</h2>
+                <p>
+                    A Tecnologia da Informação Verde, ou TI-verde, refere-se ao uso responsável da tecnologia para reduzir o impacto ambiental.
+                </p>
+                <p>
+                    A TI-verde envolve práticas como a virtualização de servidores, a otimização do consumo de energia e a redução do desperdício de recursos em data centers.
+                </p>
+            </section>
+        </div>
+    </div>
+</body>
+</html>
